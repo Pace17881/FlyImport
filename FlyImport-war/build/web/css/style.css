@@ -1,0 +1,91 @@
+
+body{
+    text-align: center;
+     background-color: beige;
+}
+
+h1.ueber1{
+    background-color: #003333;
+    color: white;
+    box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.2);
+    text-shadow:  2px  2px 2px rgb(0, 128, 85);
+    border-radius: 5px;
+}
+
+h2.ueber2{
+    background-color: #006666;
+    color: white;
+    box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.2);
+    text-shadow:  2px  2px 2px rgb(0, 128, 85);
+    border-radius: 5px;
+}
+
+h5.ueber5{
+    background-color: #006666;
+    color: white; 
+    box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.2);
+    text-shadow:  2px  2px 2px rgb(0, 128, 85);
+    border-radius: 5px;
+}
+table.grund{
+    border: 1px;
+    border-radius: 5px;
+    background-color: #2E2E2E;
+    margin-left:auto;
+    margin-right:auto;
+    box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.2);
+}
+
+tr.dattupel{
+    background-color: #D8D8D8;
+    
+}
+
+td.tabueb{
+    background-color: #006666;
+    color: white;
+    font-weight: bold;
+    text-shadow:  2px  2px 2px rgb(0, 128, 85);
+    
+}
+
+td.tdrechts{
+    text-align: right;
+}
+
+td.tdmitte{
+    text-align: center;
+    
+}
+
+td.tdlinks{
+    text-align: left;
+}
+
+th.tabkopf{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+tr.kopfzeile{
+    background-color: #006666;
+}
+
+tr.dattupel:hover{
+    background-color: #ffff66;
+    
+}
+
+p.warn{
+    font-size: 25px;
+    background-color: #003333;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    text-shadow:  2px  2px 2px rgb(0, 128, 85);
+    box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.2); 
+}
+
+
